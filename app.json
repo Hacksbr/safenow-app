@@ -1,7 +1,10 @@
 {
   "expo": {
-    "name": "hackagr1d_app",
-    "slug": "hackagr1d_app",
+    "name": "InsurApp",
+    "slug": "insurapp",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "githubUrl": "https://github.com/WesGtoX/insurapp_app",
     "platforms": [
       "ios",
       "android",
@@ -13,7 +16,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#E02041"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,7 +25,12 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.wesleymendes.insurapp"
+    },
+    "android": {
+      "package": "com.wesleymendes.insurapp",
+      "versionCode": 1
     }
   }
 }
