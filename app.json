@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "InsurApp",
-    "slug": "insurapp",
+    "name": "SafeNow",
+    "slug": "safenow",
     "privacy": "public",
     "sdkVersion": "36.0.0",
-    "githubUrl": "https://github.com/InsurApp/insurapp_app",
+    "githubUrl": "https://github.com/SafeNow/safenow_app",
     "platforms": [
       "ios",
       "android",
@@ -26,10 +26,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.insurapp.insurapp"
+      "bundleIdentifier": "com.safenow.safenow"
     },
     "android": {
-      "package": "com.insurapp.insurapp",
+      "package": "com.safenow.safenow",
       "versionCode": 1
     }
   }
