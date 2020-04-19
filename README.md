@@ -6,6 +6,6 @@
 
 -----------------
 
-# InsurApp (Mobile)
+# SafeNow (Mobile)
 
 Created with React Native.
