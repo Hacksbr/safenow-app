@@ -4,7 +4,7 @@
     "slug": "insurapp",
     "privacy": "public",
     "sdkVersion": "36.0.0",
-    "githubUrl": "https://github.com/WesGtoX/insurapp_app",
+    "githubUrl": "https://github.com/InsurApp/insurapp_app",
     "platforms": [
       "ios",
       "android",
@@ -26,10 +26,10 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.wesleymendes.insurapp"
+      "bundleIdentifier": "com.insurapp.insurapp"
     },
     "android": {
-      "package": "com.wesleymendes.insurapp",
+      "package": "com.insurapp.insurapp",
       "versionCode": 1
     }
   }
