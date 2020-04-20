@@ -88,10 +88,23 @@ export default StyleSheet.create({
     fontWeight: 'bold'
   },
 
+  chatView: {
+    flex: 1,
+    width: '100%',
+    justifyContent: 'flex-end',
+  },
+
   chatText: {
-    height: '75%',
-    marginTop: 20,
+    flex: 1,
+    marginTop: 10,
     borderRadius: 8,
+    backgroundColor: '#FFF',
+  },
+
+  sendInput: {
+    width: '85%',
+    paddingLeft: 4,
+    borderRadius: 4,
     backgroundColor: '#FFF',
   },
 
@@ -100,16 +113,8 @@ export default StyleSheet.create({
     padding: 10,
     borderRadius: 8,
     backgroundColor: '#FFF',
-    marginTop: 10,
+    marginVertical: 10,
     justifyContent: 'space-between',
     alignItems: 'center',
   },
-  
-  sendInput: {
-    width: '93%',
-    paddingLeft: 4,
-    // borderRadius: 8,
-    backgroundColor: '#FFF',
-  },
-
 })

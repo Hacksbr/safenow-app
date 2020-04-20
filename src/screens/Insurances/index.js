@@ -21,7 +21,7 @@ export default function Insurances() {
       return
     }
     setLoading(true)
-    let data = require('../../data/insurance.json');
+    let data = require('../../data/data.json');
     setInsurances(data)
     setLoading(false)
   }
@@ -43,7 +43,7 @@ export default function Insurances() {
         data={insurances}
         style={styles.insuranceList}
         keyExtractor={insurance => String(insurance.id)}
-        showsHorizontalScrollIndicator={false}
+        showsVerticalScrollIndicator={false}
         onEndReached={loadInsurance}
         onEndReachedThreshold={0.2}
         renderItem={({ item: insurance }) => (

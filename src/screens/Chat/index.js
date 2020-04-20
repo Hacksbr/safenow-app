@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react'
-import { View, Image, Text, TextInput, TouchableOpacity, ActivityIndicator } from 'react-native'
+import { View, Image, Text, TextInput, TouchableOpacity, ActivityIndicator, KeyboardAvoidingView } from 'react-native'
 import { Feather, Entypo, MaterialIcons } from '@expo/vector-icons'
 import { useNavigation } from '@react-navigation/native'
 
@@ -62,23 +62,27 @@ export default function Chat() {
         </TouchableOpacity>
       </View>
 
-
-      <View style={styles.chatText}></View>
-
-      <View style={styles.input}>
-        <Entypo name="emoji-happy" size={16} color="#021276" />
-        <TextInput
-          placeholder="Envie sua mensagem..."
-          style={styles.sendInput}
-          autoCapitalize="none"
-          autoCorrect={false}
-          blurOnSubmit={false}
-          returnKeyType='next'
-          onChangeText={setMessage}
-          value={message}
-        />
-        <MaterialIcons name="send" size={16} color="#021276" />
-      </View>
+      <KeyboardAvoidingView
+        style={styles.chatView}
+        behavior="padding"
+        enabled={Platform.OS === 'ios'}
+      >
+        <View style={styles.chatText} />
+        <View style={styles.input}>
+          <Entypo name="emoji-happy" size={16} color="#021276" />
+          <TextInput
+            placeholder="Envie sua mensagem..."
+            style={styles.sendInput}
+            autoCapitalize="none"
+            autoCorrect={false}
+            blurOnSubmit={false}
+            returnKeyType='next'
+            onChangeText={setMessage}
+            value={message}
+          />
+          <MaterialIcons name="send" size={16} color="#021276" />
+        </View>
+      </KeyboardAvoidingView>
     </View>
   )
 }
