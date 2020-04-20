@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "name": "VIDA",
+    "brockers": [
+      {
+        "id": 1,
+        "rating": 3,
+        "name": "Jéssica Luiza Andreia Gomes",
+        "city": "Recife",
+        "uf": "PE",
+        "creci": "30.654",
+        "contact": {
+          "email": "jessica@safenow.com",
+          "phone": "(81) 99876-3453"
+        }
+      },
+      {
+        "id": 2,
+        "rating": 5,
+        "name": "Luciana Natália Bernardes",
+        "city": "Brasília",
+        "uf": "DF",
+        "creci": "25.397",
+        "contact": {
+          "email": "luciana@safenow.com",
+          "phone": "(61) 99405-1187"
+        }
+      },
+      {
+        "id": 3,
+        "rating": 3,
+        "name": "Bruno Eduardo Pinto",
+        "city": "Rio Branco",
+        "uf": "AC",
+        "creci": "38.905",
+        "contact": {
+          "email": "bruno@safenow.com",
+          "phone": "(68) 99996-0122"
+        }
+      },
+      {
+        "id": 4,
+        "rating": 4,
+        "name": "Murilo Jorge Igor Nascimento",
+        "city": "Palmeira dos Índios",
+        "uf": "AL",
+        "creci": "39.180",
+        "contact": {
+          "email": "murilo@safenow.com",
+          "phone": "(82) 98783-9795"
+        }
+      },
+      {
+        "id": 5,
+        "rating": 5,
+        "name": "Regina Agatha das Neves",
+        "city": "Recife",
+        "uf": "PE",
+        "creci": "26.615",
+        "contact": {
+          "email": "regina@safenow.com",
+          "phone": "(81) 98477-6720"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "AUTO",
+    "brockers": [
+      {
+        "id": 6,
+        "rating": 3,
+        "name": "Lucca Diogo Silveira",
+        "city": "Goiania",
+        "uf": "GO",
+        "creci": "30.849",
+        "contact": {
+          "email": "luccadiogosilveira@safenow.com",
+          "phone": "(81) 98134-2337"
+        }
+      },
+      {
+        "id": 7,
+        "rating": 5,
+        "name": "Cauê Erick Teixeira",
+        "city": "Jaragua",
+        "uf": "GO",
+        "creci": "25.121",
+        "contact": {
+          "email": "caueerickteixeira-82@safenow.com",
+          "phone": "(61) 98856-1439"
+        }
+      },
+      {
+        "id": 8,
+        "rating": 3,
+        "name": "Raimunda Andrea Campos",
+        "city": "Joiville",
+        "uf": "SP",
+        "creci": "38.905",
+        "contact": {
+          "email": "raimundaandreacampos@safenow.com",
+          "phone": "(68) 99919-6197"
+        }
+      },
+      {
+        "id": 9,
+        "rating": 4,
+        "name": "Carolina Marina Nicole Rocha",
+        "city": "Palmeiras",
+        "uf": "SP",
+        "creci": "39.286",
+        "contact": {
+          "email": "carolinamarinanicolerocha@safenow.com",
+          "phone": "(82) 99353-1437"
+        }
+      },
+      {
+        "id": 10,
+        "rating": 5,
+        "name": "Laís Sophia Betina Teixeira",
+        "city": "Olinda",
+        "uf": "PE",
+        "creci": "26.616",
+        "contact": {
+          "email": "laissophiabetinateixeira-97@safenow.com",
+          "phone": "(81) 99895-6494"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "BICICLETA",
+    "brockers": [
+      {
+        "id": 11,
+        "rating": 3,
+        "name": "Diego Samuel Silveira",
+        "city": "Sao Luiz",
+        "uf": "MA",
+        "creci": "30.305",
+        "contact": {
+          "email": "diegosamuelsilveira-94@safenow.com",
+          "phone": "(88) 98715-9487"
+        }
+      },
+      {
+        "id": 12,
+        "rating": 5,
+        "name": "Caroline Amanda Nunes",
+        "city": "Fortaleza",
+        "uf": "CE",
+        "creci": "25.332",
+        "contact": {
+          "email": "carolineamandanunes_@safenow.com",
+          "phone": "(86) 98856-1439"
+        }
+      },
+      {
+        "id": 13,
+        "rating": 3,
+        "name": "Emanuelly Helena Stefany Pires",
+        "city": "Ribeirao Preto",
+        "uf": "SP",
+        "creci": "33.123",
+        "contact": {
+          "email": "Emanuelly@safenow.com",
+          "phone": "(16) 98147-9471"
+        }
+      },
+      {
+        "id": 14,
+        "rating": 4,
+        "name": "Samuel Renato Pedro Farias",
+        "city": "Chapadinha",
+        "uf": "MA",
+        "creci": "35.285",
+        "contact": {
+          "email": "samuelrenatopedrofarias-99@safenow.com",
+          "phone": "(99) 98975-6173"
+        }
+      },
+      {
+        "id": 15,
+        "rating": 5,
+        "name": "Camila Tânia Tatiane Nascimento",
+        "city": "Aparecida",
+        "uf": "MG",
+        "creci": "26.613",
+        "contact": {
+          "email": "camilatania@safenow.com",
+          "phone": "(35) 98283-9689"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "RESIDENCIAL",
+    "brockers": [
+      {
+        "id": 16,
+        "rating": 3,
+        "name": "Yuri Bruno Lorenzo da Mata",
+        "city": "Passos",
+        "uf": "MG",
+        "creci": "30.300",
+        "contact": {
+          "email": "yuribrunolorenzodamata_@safenow.com",
+          "phone": "(35) 98406-1224"
+        }
+      },
+      {
+        "id": 17,
+        "rating": 5,
+        "name": "Mário Augusto Nelson da Mata",
+        "city": "Picos",
+        "uf": "PI",
+        "creci": "25.522",
+        "contact": {
+          "email": "mmarioaugustonelsondamata@safenow.com",
+          "phone": "(86) 99176-5322"
+        }
+      },
+      {
+        "id": 18,
+        "rating": 3,
+        "name": "Josefa Nicole Rebeca Bernardes",
+        "city": "Sao Carlos",
+        "uf": "SP",
+        "creci": "33.922",
+        "contact": {
+          "email": "josefanicolerebecabernardes@safenow.com",
+          "phone": "(17) 99313-9817"
+        }
+      },
+      {
+        "id": 19,
+        "rating": 4,
+        "name": "Matheus Mário da Conceição",
+        "city": "Porangatu",
+        "uf": "GO",
+        "creci": "35.761",
+        "contact": {
+          "email": "matheusmariodaconceicao_@safenow.com",
+          "phone": "(62) 99259-6032"
+        }
+      },
+      {
+        "id": 20,
+        "rating": 5,
+        "name": "Raimunda Emanuelly Luana Vieira",
+        "city": "Ribeirao Pires",
+        "uf": "SP",
+        "creci": "26.473",
+        "contact": {
+          "email": "raimundaemanuelly@safenow.com",
+          "phone": "(35) 99745-3050"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "VIAGEM",
+    "brockers": [
+      {
+        "id": 21,
+        "rating": 3,
+        "name": "Nina Mariane Teixeira",
+        "city": "Bauru",
+        "uf": "SP",
+        "creci": "30.727",
+        "contact": {
+          "email": "ninamarianeteixeira@safenow.com",
+          "phone": "(35) 98869-8074"
+        }
+      },
+      {
+        "id": 22,
+        "rating": 5,
+        "name": "Nair Eliane Caldeira",
+        "city": "Altos",
+        "uf": "PI",
+        "creci": "25.339",
+        "contact": {
+          "email": "nnairelianecaldeira@safenow.com",
+          "phone": "(86) 98869-8074"
+        }
+      },
+      {
+        "id": 23,
+        "rating": 3,
+        "name": "Osvaldo Anderson Fogaça",
+        "city": "Sao Paulo",
+        "uf": "SP",
+        "creci": "23.158",
+        "contact": {
+          "email": "osvaldoandersonfogac@safenow.com",
+          "phone": "(17) 99108-2840"
+        }
+      },
+      {
+        "id": 24,
+        "rating": 4,
+        "name": "Renato Elias Thiago Vieira",
+        "city": "Araraquara",
+        "uf": "SP",
+        "creci": "32.965",
+        "contact": {
+          "email": "renatoeliasthiagovieira@safenow.com",
+          "phone": "(16) 99259-6032"
+        }
+      },
+      {
+        "id": 25,
+        "rating": 5,
+        "name": "Gabrielly Vera Assunção",
+        "city": "Sao Miguel",
+        "uf": "GO",
+        "creci": "26.473",
+        "contact": {
+          "email": "raimundaemanuelly@safenow.com",
+          "phone": "(35) 99745-3050"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "ACIDENTES PESSOAIS",
+    "brockers": [
+      {
+        "id": 26,
+        "rating": 3,
+        "name": "Lucas Felipe Osvaldo Campos",
+        "city": "Belo Horizonte",
+        "uf": "MG",
+        "creci": "30.960",
+        "contact": {
+          "email": "lucasfelipeosvaldocampos@safenow.com",
+          "phone": "(35) 98848-1960"
+        }
+      },
+      {
+        "id": 27,
+        "rating": 5,
+        "name": "Mateus Lucas Nicolas da Mota",
+        "city": "Santos",
+        "uf": "SP",
+        "creci": "25.383",
+        "contact": {
+          "email": "mateuslucasnicolasdamota@safenow.com",
+          "phone": "(15) 98869-8074"
+        }
+      },
+      {
+        "id": 28,
+        "rating": 3,
+        "name": "Elisa Benedita Ramos",
+        "city": "Rio de Janeiro",
+        "uf": "RJ",
+        "creci": "23.104",
+        "contact": {
+          "email": "elisabeneditaramos@safenow.com",
+          "phone": "(21) 98579-2809"
+        }
+      },
+      {
+        "id": 29,
+        "rating": 4,
+        "name": "Filipe Osvaldo Cláudio Jesus",
+        "city": "Parnaiba",
+        "uf": "PI",
+        "creci": "32.809",
+        "contact": {
+          "email": "filipeosvaldoclaudiojesus@safenow.com",
+          "phone": "(86) 98750-0563"
+        }
+      },
+      {
+        "id": 30,
+        "rating": 5,
+        "name": "Otávio Luiz Araújo",
+        "city": "Pedro II",
+        "uf": "PI",
+        "creci": "26.266",
+        "contact": {
+          "email": "otavioluizaraujo@safenow.com",
+          "phone": "(86) 99745-3050"
+        }
+      }
+    ]
+  }
+]

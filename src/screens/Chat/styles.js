@@ -51,23 +51,6 @@ export default StyleSheet.create({
     lineHeight: 24,
     color: '#737380',
   },
-  
-  search: {
-    flexDirection: 'row',
-    padding: 10,
-    borderRadius: 8,
-    backgroundColor: '#FFF',
-    marginTop: 32,
-    justifyContent: 'space-between',
-    alignItems: 'center',
-  },
-
-  searchInput: {
-    width: '93%',
-    // padding: 10,
-    // borderRadius: 8,
-    backgroundColor: '#FFF',
-  },
 
   brokerList: {
     marginTop: 8,
@@ -104,4 +87,29 @@ export default StyleSheet.create({
     fontSize: 15,
     fontWeight: 'bold'
   },
+
+  chatText: {
+    height: '75%',
+    marginTop: 20,
+    borderRadius: 8,
+    backgroundColor: '#FFF',
+  },
+
+  input: {
+    flexDirection: 'row',
+    padding: 10,
+    borderRadius: 8,
+    backgroundColor: '#FFF',
+    marginTop: 10,
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  
+  sendInput: {
+    width: '93%',
+    paddingLeft: 4,
+    // borderRadius: 8,
+    backgroundColor: '#FFF',
+  },
+
 })

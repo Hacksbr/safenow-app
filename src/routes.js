@@ -14,8 +14,8 @@ const Routes = () => {
     <NavigationContainer>
 
       <AppStack.Navigator screenOptions={{ headerShown: false }}>
-        <AppStack.Screen name="Chat" component={Chat} />
         <AppStack.Screen name="Insurances" component={Insurances} />
+        <AppStack.Screen name="Chat" component={Chat} />
         <AppStack.Screen name="Brokers" component={Brokers} />
         <AppStack.Screen name="Detail" component={Detail} />
       </AppStack.Navigator>

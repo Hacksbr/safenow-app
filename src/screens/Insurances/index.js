@@ -13,7 +13,7 @@ export default function Insurances() {
   const [loading, setLoading] = useState(false)
 
   function navigateToBrokers(brockers) {
-    navigation.navigate('Brokers', { brockers })
+    navigation.navigate('Chat')
   }
 
   async function loadInsurance() {
