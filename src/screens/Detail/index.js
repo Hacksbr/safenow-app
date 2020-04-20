@@ -4,7 +4,7 @@ import { Feather } from '@expo/vector-icons'
 import { useNavigation, useRoute } from '@react-navigation/native'
 import * as MailComposer from 'expo-mail-composer'
 
-import logoImg from '../../assets/logo.png'
+import logoImg from '../../assets/logo_icon.png'
 import styles from './styles'
 
 
@@ -37,7 +37,7 @@ export default function Detail() {
         <Image source={logoImg} />
 
         <TouchableOpacity onPress={navigateBack}>
-          <Feather name="arrow-left" size={28} color="#E02041" />
+          <Feather name="arrow-left" size={28} color="#021276" />
         </TouchableOpacity>
       </View>
 

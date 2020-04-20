@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "VIDA"
+  },
+  {
+    "id": 2,
+    "name": "AUTO"
+  },
+  {
+    "id": 3,
+    "name": "BICICLETA"
+  },
+  {
+    "id": 4,
+    "name": "RESIDENCIAL"
+  }
+]

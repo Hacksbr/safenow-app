@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "rating": 3,
+    "name": "Jéssica Luiza Andreia Gomes",
+    "city": "Recife",
+    "uf": "PE",
+    "creci": "30.654",
+    "contact": {
+      "email": "jessica@safenow.com",
+      "phone": "(81) 99876-3453"
+    }
+  },
+  {
+    "id": 2,
+    "rating": 5,
+    "name": "Luciana Natália Bernardes",
+    "city": "Brasília",
+    "uf": "DF",
+    "creci": "25.397",
+    "contact": {
+      "email": "luciana@safenow.com",
+      "phone": "(61) 99405-1187"
+    }
+  },
+  {
+    "id": 3,
+    "rating": 3,
+    "name": "Bruno Eduardo Pinto",
+    "city": "Rio Branco",
+    "uf": "AC",
+    "creci": "38.905",
+    "contact": {
+      "email": "bruno@safenow.com",
+      "phone": "(68) 99996-0122"
+    }
+  },
+  {
+    "id": 4,
+    "rating": 4,
+    "name": "Murilo Jorge Igor Nascimento",
+    "city": "Palmeira dos Índios",
+    "uf": "AL",
+    "creci": "39.180",
+    "contact": {
+      "email": "murilo@safenow.com",
+      "phone": "(82) 98783-9795"
+    }
+  },
+  {
+    "id": 5,
+    "rating": 5,
+    "name": "Regina Agatha das Neves",
+    "city": "Recife",
+    "uf": "PE",
+    "creci": "26.615",
+    "contact": {
+      "email": "regina@safenow.com",
+      "phone": "(81) 98477-6720"
+    }
+  },
+  {
+    "id": 6,
+    "rating": 4,
+    "name": "Carolina Olivia Julia Vieira",
+    "city": "Mossoró",
+    "uf": "RN",
+    "creci": "31.985",
+    "contact": {
+      "email": "carolina@safenow.com",
+      "phone": "(84) 99445-8339"
+    }
+  },
+  {
+    "id": 7,
+    "rating": 4,
+    "name": "Débora Vera Caroline Figueiredo",
+    "city": "Várzea Grande",
+    "uf": "MT",
+    "creci": "34.454",
+    "contact": {
+      "email": "debora@safenow.com",
+      "phone": "(65) 98245-3934"
+    }
+  },
+  {
+    "id": 8,
+    "rating": 1,
+    "name": "Manuela Tânia Pinto",
+    "city": "Maceió",
+    "uf": "AL",
+    "creci": "20.652",
+    "contact": {
+      "email": "manuela@safenow.com",
+      "phone": "(82) 99771-0957"
+    }
+  },
+  {
+    "id": 9,
+    "rating": 4,
+    "name": "Isabelle Carolina Emily Alves",
+    "city": "Fortaleza",
+    "uf": "CE",
+    "creci": "26.110",
+    "contact": {
+      "email": "isabelle@safenow.com",
+      "phone": "(85) 98480-3940"
+    }
+  },
+  {
+    "id": 10,
+    "rating": 1,
+    "name": "Samuel Caio Baptista",
+    "city": "Porto Velho",
+    "uf": "RO",
+    "creci": "23.367",
+    "contact": {
+      "email": "samuel@safenow.com",
+      "phone": "(69) 98536-2899"
+    }
+  }
+]

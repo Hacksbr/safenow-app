@@ -10,7 +10,7 @@ export default StyleSheet.create({
 
   header: {
     flexDirection: 'row',
-    justifyContent: 'space-between',
+    justifyContent: 'center',
     alignItems: 'center',
   },
 
@@ -36,39 +36,40 @@ export default StyleSheet.create({
     lineHeight: 24,
     color: '#737380',
   },
-
-  incidentList: {
-    marginTop: 32,
-  },
-
-  incident: {
-    padding: 24,
-    borderRadius: 8,
-    backgroundColor: '#FFF',
-    marginBottom: 16,
-  },
-
-  incidentProperty: {
-    fontSize: 14,
-    color: '#41414d',
-    fontWeight: 'bold',
-  },
-
-  incidentValue: {
+  
+  insuranceList: {
     marginTop: 8,
-    fontSize: 15,
-    marginBottom: 24,
-    color: '#737380',
   },
 
-  detailsButton: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
+  insurance: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  
+  insuranceButton: {
+    // width: '100%',
+    // height: 50,
+    borderRadius: 8,
+    padding: 24,
+    backgroundColor: '#FFF',
+    marginVertical: 6,
+    justifyContent: 'center',
     alignItems: 'center',
   },
 
+  insuranceProperty: {
+    fontSize: 18,
+    color: '#021276',
+    fontWeight: 'bold',
+  },
+
+  insuranceValue: {
+    fontSize: 15,
+    color: '#737380',
+  },
+
   detailsButtonText: {
-    color: '#E02041',
+    color: '#021276',
     fontSize: 15,
     fontWeight: 'bold'
   },
